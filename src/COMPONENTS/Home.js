@@ -90,14 +90,14 @@ const Home = () => {
 
 
 {/* 
-<div class="card mb-3" style={{width: "70vw",height:'50vh',background:'none',marginTop:'8%'}}>
-  <div class="row g-0">
+<div className="card mb-3" style={{width: "70vw",height:'50vh',background:'none',marginTop:'8%'}}>
+  <div className="row g-0">
    
-    <div class="col-md-8" style={{display:'flex',alignItems:'center',justifyContent:'center'}}>
-      <div class="card-body">
-        <h5 class="card-title text-light">HI I'M JIGAR MAKWANA</h5>
-        <p class="card-text">
-        <h3 class="card-subtitle mb-2 text-warning">
+    <div className="col-md-8" style={{display:'flex',alignItems:'center',justifyContent:'center'}}>
+      <div className="card-body">
+        <h5 className="card-title text-light">HI I'M JIGAR MAKWANA</h5>
+        <p className="card-text">
+        <h3 className="card-subtitle mb-2 text-warning">
           <Typewriter
             words={["Frontend Developer"]}
             loop
@@ -110,18 +110,18 @@ const Home = () => {
         </p>
       </div>
     </div>
-    <div class="col-md-4">
-      <img src={cartoon}class="img-fluid rounded-start img" style={{width:'40vw',height:'50vh'}}  alt="..."/>
+    <div className="col-md-4">
+      <img src={cartoon}className="img-fluid rounded-start img" style={{width:'40vw',height:'50vh'}}  alt="..."/>
     </div>
   </div>
 </div> */}
 
 
 
-{/* <div class="card" style={{width:" 80vw",background:'none'}}>
-  <div class="card-body">
-    <h1 class="card-title text-light">HI I'M JIGAR MAKWANA</h1>
-    <h3 class="card-subtitle mb-2 text-warning">
+{/* <div className="card" style={{width:" 80vw",background:'none'}}>
+  <div className="card-body">
+    <h1 className="card-title text-light">HI I'M JIGAR MAKWANA</h1>
+    <h3 className="card-subtitle mb-2 text-warning">
       <Typewriter
             words={["<Frontend Developer/>"]}
             loop

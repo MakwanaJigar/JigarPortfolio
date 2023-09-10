@@ -18,7 +18,7 @@ const Footer = () => {
             <div className="col-md-4 text-left">
                 <h5 className='text-info fw-bold mb-2'>Contact</h5>
                 <p className='text-light'><i className='fa fa-home m-2'></i> 12-Harsiddh Society,Radhanpur Road, Mehsana-384002</p>
-                <p><a className='text-light' href='mailto:jigar317.certification@gmail.com'><i class="fa-solid fa-envelope m-2"></i> jigar317.certification@gmail.com</a>
+                <p><a className='text-light' href='mailto:jigar317.certification@gmail.com'><i className="fa-solid fa-envelope m-2"></i> jigar317.certification@gmail.com</a>
                 </p>
                 <p>
                 <a className='text-light' href='tel:8511721552'><i className='fa fa-mobile m-2'></i> +91 8511721552</a>

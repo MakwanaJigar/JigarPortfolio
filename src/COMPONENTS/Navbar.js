@@ -31,7 +31,7 @@ const Navbar = () => {
           <a className="nav-link text-light" aria-current="page" href="#about">AboutMe</a>
         </li>
       </ul>
-      <div className="btn btn-outline-info">Contact me</div>
+      <a className="btn btn-outline-info" href='tel:8511721552'>Contact me</a>
     </div>
    
   </div>
